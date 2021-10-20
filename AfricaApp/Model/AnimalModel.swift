@@ -9,7 +9,7 @@ import Foundation
 
 
 struct Animal: Codable, Identifiable {
-    let id: Int
+    let id: String
     let name: String
     let headline: String
     let description: String
