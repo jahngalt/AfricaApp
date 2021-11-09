@@ -8,10 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    init() {
+            UITableView.appearance().showsVerticalScrollIndicator = false
+        }
+    
+    
     var body: some View {
         
         let animals: [Animal] = Bundle.main.decode("animals.json")
         
+       
         NavigationView {
             List {
                 CoverImageView()
