@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED29873E273AF91F00E0EADB /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED29873D273AF91F00E0EADB /* MotionAnimationView.swift */; };
 		ED2D138A27354A880088008C /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2D138927354A880088008C /* MapAnnotationView.swift */; };
 		ED45F1B02716CB91002A3F51 /* AfricaAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED45F1AF2716CB91002A3F51 /* AfricaAppApp.swift */; };
 		ED45F1B22716CB91002A3F51 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED45F1B12716CB91002A3F51 /* ContentView.swift */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED29873D273AF91F00E0EADB /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		ED2D138927354A880088008C /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		ED45F1AC2716CB91002A3F51 /* AfricaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AfricaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED45F1AF2716CB91002A3F51 /* AfricaAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaAppApp.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				ED61F3772734603C00540F82 /* VideoListItemView.swift */,
 				ED61F379273474C300540F82 /* VideoPlayerView.swift */,
 				ED2D138927354A880088008C /* MapAnnotationView.swift */,
+				ED29873D273AF91F00E0EADB /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				ED7D357F272E6AE30012C1C2 /* InsetGalleryView.swift in Sources */,
 				ED61F3782734603C00540F82 /* VideoListItemView.swift in Sources */,
 				EDD62A03271DB63E005FA299 /* CodableBundleExtension.swift in Sources */,
+				ED29873E273AF91F00E0EADB /* MotionAnimationView.swift in Sources */,
 				ED7D357D272E5B250012C1C2 /* HeadingView.swift in Sources */,
 				ED61F37A273474C300540F82 /* VideoPlayerView.swift in Sources */,
 			);
